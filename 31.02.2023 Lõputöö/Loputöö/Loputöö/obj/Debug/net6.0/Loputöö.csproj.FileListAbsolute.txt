@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\31.02.2023 Lõputöö\Loputöö\Loputöö\obj\Debug\net6.0\Loputöö.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\31.02.2023 Lõputöö\Loputöö\Loputöö\obj\Debug\net6.0\Loputöö.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\31.02.2023 Lõputöö\Loputöö\Loputöö\obj\Debug\net6.0\Loputöö.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\31.02.2023 Lõputöö\Loputöö\Loputöö\obj\Debug\net6.0\Loputöö.AssemblyInfo.cs
+C:\Users\opilane\source\repos\31.02.2023 Lõputöö\Loputöö\Loputöö\obj\Debug\net6.0\Loputöö.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\31.02.2023 Lõputöö\Loputöö\Loputöö\bin\Debug\net6.0\Loputöö.exe
+C:\Users\opilane\source\repos\31.02.2023 Lõputöö\Loputöö\Loputöö\bin\Debug\net6.0\Loputöö.deps.json
+C:\Users\opilane\source\repos\31.02.2023 Lõputöö\Loputöö\Loputöö\bin\Debug\net6.0\Loputöö.runtimeconfig.json
+C:\Users\opilane\source\repos\31.02.2023 Lõputöö\Loputöö\Loputöö\bin\Debug\net6.0\Loputöö.dll
+C:\Users\opilane\source\repos\31.02.2023 Lõputöö\Loputöö\Loputöö\bin\Debug\net6.0\Loputöö.pdb
+C:\Users\opilane\source\repos\31.02.2023 Lõputöö\Loputöö\Loputöö\obj\Debug\net6.0\Loputöö.dll
+C:\Users\opilane\source\repos\31.02.2023 Lõputöö\Loputöö\Loputöö\obj\Debug\net6.0\refint\Loputöö.dll
+C:\Users\opilane\source\repos\31.02.2023 Lõputöö\Loputöö\Loputöö\obj\Debug\net6.0\Loputöö.pdb
+C:\Users\opilane\source\repos\31.02.2023 Lõputöö\Loputöö\Loputöö\obj\Debug\net6.0\Loputöö.genruntimeconfig.cache
+C:\Users\opilane\source\repos\31.02.2023 Lõputöö\Loputöö\Loputöö\obj\Debug\net6.0\ref\Loputöö.dll
